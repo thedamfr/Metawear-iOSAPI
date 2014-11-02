@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "Metawear-iOSAPI"
+  s.name         = "Metawear"
   s.version      = "1.1.1"
   s.summary      = "API for iOS + documentation files for the MetaWear platform"
   s.description  = <<-DESC
